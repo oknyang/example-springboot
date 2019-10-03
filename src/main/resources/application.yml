@@ -1,0 +1,12 @@
+property:
+  test:
+    name: test~
+propertyTest: test
+propertyTestList: a,b,c
+
+fruit:
+  list:
+    - name: banana
+      color: yellow
+    - name: apple
+      color: red
